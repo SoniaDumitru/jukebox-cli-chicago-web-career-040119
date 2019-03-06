@@ -64,4 +64,5 @@ def run(songs)
     users_answer = gets.chomp
   end
 end
+exit_jukebox
 end
